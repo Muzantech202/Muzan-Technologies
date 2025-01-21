@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muzan Technologies</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>Muzan Technologies</h1>
+            <p>Your trusted partner in renewable energy solutions.</p>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>At Muzan Technologies, we specialize in consultation, purchasing, and installation of renewable systems such as solar and inverter systems. Our mission is to provide top-notch services at affordable rates, empowering our customers with reliable alternate energy solutions.</p>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Consultation for renewable energy solutions</li>
+                <li>Supply and purchase of solar and inverter systems</li>
+                <li>Professional installation services</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Consultation Section -->
+    <section id="consultation">
+        <div class="container">
+            <h2>Book a Consultation</h2>
+            <p>Need expert advice on renewable energy solutions? Click below to schedule a consultation with us.</p>
+            <a href="#" class="btn">Schedule Consultation</a>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>We are here to help! Reach out to us through the following channels:</p>
+            <ul>
+                <li>Phone: +2348081651248, +2349131830325</li>
+                <li>Address: 67 Abaranje Road, Ikotun, Lagos, Nigeria</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Muzan Technologies. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
